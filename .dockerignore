@@ -1,0 +1,6 @@
+.git
+*.o
+a.out
+calc
+lib*.a
+prog
